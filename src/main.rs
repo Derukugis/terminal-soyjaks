@@ -38,3 +38,4 @@ fn main() {
         .status()
         .expect("failed to run img2sixel, do you have libsixel installed?");
 }
+
